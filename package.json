@@ -1,0 +1,25 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"json-server -w server.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gigc19/npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gigc19/npm/issues"
+  },
+  "homepage": "https://github.com/Gigc19/npm#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "json-server": "^1.0.0-beta.3"
+  }
+}
